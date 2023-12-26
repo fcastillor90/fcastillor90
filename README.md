@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋  <img src="https://veekun.com/dex/media/pokemon/global-link/143.png" >
+my name if Fernando, and i'm a junior developer, 
 
 <!--
 **fcastillor90/fcastillor90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
