@@ -1,5 +1,5 @@
 ### Hi there 👋  <img src="https://veekun.com/dex/media/pokemon/global-link/202.png" height="60px" >
-my name if Fernando, and i'm a junior developer, i'm from chile.
+my name is Fernando, and i'm a junior developer, i'm from chile.
 
 <!--
 **fcastillor90/fcastillor90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
