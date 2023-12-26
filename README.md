@@ -1,5 +1,5 @@
 ### Hi there 👋   .
-<img src="https://veekun.com/dex/media/pokemon/global-link/202.png" >
+<img src="https://veekun.com/dex/media/pokemon/global-link/202.png" height="60px" >
 my name if Fernando, and i'm a junior developer, i'm from chile.
 
 <!--
