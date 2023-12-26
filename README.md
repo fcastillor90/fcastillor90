@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 
 
 <h2>Some of my projects </h2>
-<p><a href="https://opentech-6mbxd4d3w-fernando-castillos-projects.vercel.app/">Open Salary Full Stack Website </p>
+
+<p><a href="https://opentech-qwb4a95zm-fernando-castillos-projects.vercel.app/">Open Salary Full Stack Website </p>
