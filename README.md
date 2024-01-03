@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 <h2>Some of my projects </h2>
 
 <p><a href="https://opentech-nine.vercel.app/">Open Salary Full Stack Website </p>
+<p><a href"https://tic-tac-amjev5dnz-fernando-castillos-projects.vercel.app/">Tic Tac Toe </p>
